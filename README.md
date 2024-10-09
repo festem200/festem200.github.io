@@ -14,5 +14,6 @@ Un blog increible para el [Curso de Git y GitHub](https://platzi.com/cursos/git-
 * El verdadero amor por las buuenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de el SEO de Freddy
+* Creado por el increible Platzi team
 
   Y como amable recordatorio: **Este readme.md es un chiste**. Disenado para el ejemplo del curso.
