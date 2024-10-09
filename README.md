@@ -1,4 +1,4 @@
-# HyperBlog
+# HyperBlog 💙
 
 Un blog increible para el [Curso de Git y GitHub](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
